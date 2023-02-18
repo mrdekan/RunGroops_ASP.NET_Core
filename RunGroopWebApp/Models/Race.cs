@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using RunGroopWebApp.Data.Enum;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace RunGroopWebApp.Models
 {
