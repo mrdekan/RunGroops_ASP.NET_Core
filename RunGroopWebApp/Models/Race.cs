@@ -1,4 +1,5 @@
 ﻿using RunGroopWebApp.Data.Enum;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace RunGroopWebApp.Models
@@ -21,7 +22,7 @@ namespace RunGroopWebApp.Models
         public Address Address { get; set; }
         public RaceCategory RaceCategory { get; set; }
         [ForeignKey("AppUser")]
-        public string? AppUserId { get; set; }
+        public int? AppUserId { get; set; }
         public AppUser? AppUser { get; set; }
     }
 }
