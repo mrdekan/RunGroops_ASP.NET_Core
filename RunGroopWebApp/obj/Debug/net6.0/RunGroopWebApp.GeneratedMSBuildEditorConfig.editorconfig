@@ -16,12 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\code\ASP.NET Core\RunGroops_ASP.NET_Core\RunGroopWebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/code/ASP.NET Core/RunGroops_ASP.NET_Core/RunGroopWebApp/Views/ClubController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YkNvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/code/ASP.NET Core/RunGroops_ASP.NET_Core/RunGroopWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/code/ASP.NET Core/RunGroops_ASP.NET_Core/RunGroopWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/code/ASP.NET Core/RunGroops_ASP.NET_Core/RunGroopWebApp/Views/RaceController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZUNvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/code/ASP.NET Core/RunGroops_ASP.NET_Core/RunGroopWebApp/Views/Shared/Error.cshtml]
