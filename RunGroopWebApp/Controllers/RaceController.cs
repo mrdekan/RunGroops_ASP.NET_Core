@@ -2,7 +2,7 @@
 
 namespace RunGroopWebApp.Controllers
 {
-	public class ClubController1 : Controller
+	public class RaceController : Controller
 	{
 		public IActionResult Index()
 		{
